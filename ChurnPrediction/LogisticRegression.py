@@ -1,3 +1,5 @@
+#SIDDHARTH GUPTA, FOR NEURONEXUS INNOVATIONS
+
 # Here we import all the required libraries for our logistic regression model..
 import pandas as pd #for reading the dataset
 from sklearn.model_selection import train_test_split #to train and test our data pieces..
